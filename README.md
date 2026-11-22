@@ -108,6 +108,7 @@ Here are some cool projects maintained by members of our community. Please note 
 
 - [Freegosy][freegosy]: Cross-platform game manager with save sync by [@abduznik1](https://gitlab.com/abduznik1)
 - [RetroVault][retrovault]: Native macOS library and player by [@kennethreitz](https://github.com/kennethreitz)
+- [RomM Launcher][romm-launcher]: Windows launcher that downloads games on demand and plays them in your local emulators, with emulator downloads and updates, offline mode and WebDAV save sync by [@housello](https://github.com/housello)
 - [romm-client][romm-client]: Desktop client by [@chaun14](https://github.com/chaun14)
 - [RomMate][rommate]: Desktop app for browsing your collection by [@brenoprata10](https://github.com/brenoprata10)
 - [RomP][romp]: Desktop player for Windows, macOS and Linux that runs each game in its own sandbox by [@RompEmu](https://github.com/RompEmu)
@@ -206,6 +207,7 @@ Here are a few projects that we think you might like:
 [playnite-app]: https://github.com/rommapp/playnite-plugin
 [ggrequestz]: https://github.com/XTREEMMAK/ggrequestz
 [romm-client]: https://github.com/chaun14/romm-client
+[romm-launcher]: https://github.com/housello/romm-launcher
 [romm-retroarch-sync]: https://github.com/Covin90/romm-retroarch-sync
 [rommate]: https://github.com/brenoprata10/rommate
 [freegosy]: https://gitlab.com/abduznik1/Freegosy
